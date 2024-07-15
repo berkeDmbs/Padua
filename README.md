@@ -10,7 +10,7 @@
     tagged with user locations to be accessed before visiting the places to plan budget with the up-to-date prices and also 
     save personal notes and ratings for previously visited places.
   </p>
-  <img src="Screenshots/home.PNG" alt="Home View>
-  <img src="Screenshots/map.PNG" alt="Map View">
-  <img src="Screenshots/detail.PNG" alt="Detail View">
+  <img src="Screenshots/home.PNG" alt="Home View" width="120">
+  <img src="Screenshots/map.PNG" alt="Map View" width="120">
+  <img src="Screenshots/detail.PNG" alt="Detail View" width="120">
 </div>
