@@ -10,8 +10,8 @@
     tagged with user locations to be accessed before visiting the places to plan budget with the up-to-date prices and also 
     save personal notes and ratings for previously visited places.
 
-    ![Home View](Screenshots/home.png?raw=true "Home View")
-    ![Map View](Screenshots/map.png?raw=true "Map View")
-    ![Detail View](Screenshots/detail.png?raw=true "Detail View")
+    ![Home View](/Screenshots/home.png?raw=true "Home View")
+    ![Map View](/Screenshots/map.png?raw=true "Map View")
+    ![Detail View](/Screenshots/detail.png?raw=true "Detail View")
   </p>
 </div>
