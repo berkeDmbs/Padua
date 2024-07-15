@@ -10,8 +10,8 @@
     tagged with user locations to be accessed before visiting the places to plan budget with the up-to-date prices and also 
     save personal notes and ratings for previously visited places.
 
-    ![Home View](https://github.com/berkeDmbs/Padua/tree/main/Screenshots/home.png)
-    ![Map View](https://github.com/berkeDmbs/Padua/tree/main/Screenshots/map.png)
-    ![Detail View](https://github.com/berkeDmbs/Padua/tree/main/Screenshots/detail.png)
+    <img src="Screenshots/home.png" alt="Home View>
+    <img src="Screenshots/map.png" alt="Map View">
+    <img src="Screenshots/detail.png" alt="Detail View">
   </p>
 </div>
